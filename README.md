@@ -829,4 +829,6 @@ You've learned how to:
 - provide search suggestions using the HERE [Geocoding Autocomplete API](https://developer.here.com/documentation/geocoder-autocomplete/topics/quick-start-get-suggestions.html)
 - implement some slick CSS transitions
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/54J_ZCbeJdc/0.jpg)](https://youtu.be/54J_ZCbeJdc)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+    
