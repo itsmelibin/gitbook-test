@@ -833,4 +833,18 @@ You've learned how to:
 
 <img src="https://www.here.com/sites/g/files/odxslz166/files/styles/feature_card_item_xl_retina/public/2019-03/Product_Tracking_1.jpg?h=815abf95&itok=TVFZx-hr" alt="Italian Trulli" width="500" height="400">
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
 
