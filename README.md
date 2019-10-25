@@ -829,6 +829,17 @@ You've learned how to:
 - provide search suggestions using the HERE [Geocoding Autocomplete API](https://developer.here.com/documentation/geocoder-autocomplete/topics/quick-start-get-suggestions.html)
 - implement some slick CSS transitions
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<div>
+<!DOCTYPE html>
+<html>
+<body>
 
+<iframe src="https://www.w3schools.com">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+</body>
+</html>    
+<img src="https://www.here.com/sites/g/files/odxslz166/files/styles/feature_card_item_xl_retina/public/2019-03/Product_Tracking_1.jpg?h=815abf95&itok=TVFZx-hr" alt="Italian Trulli" width="500" height="400">
+</div>
     
