@@ -1,4 +1,25 @@
+<link href="test.css" rel="stylesheet"></link>
 
+<div>
+ test title
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8Cb4p2vUsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="https://www.here.com/sites/g/files/odxslz166/files/styles/feature_card_item_xl_retina/public/2019-03/Product_Tracking_1.jpg?h=815abf95&itok=TVFZx-hr" alt="Italian Trulli" width="500" height="400">
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+</p>
+</details>
 ## Introduction
 *<div style="text-align: right">Last Updated: 11/09/2019 JS Library Version: 3.1</div>* 
 
@@ -829,22 +850,7 @@ You've learned how to:
 - provide search suggestions using the HERE [Geocoding Autocomplete API](https://developer.here.com/documentation/geocoder-autocomplete/topics/quick-start-get-suggestions.html)
 - implement some slick CSS transitions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F8Cb4p2vUsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="https://www.here.com/sites/g/files/odxslz166/files/styles/feature_card_item_xl_retina/public/2019-03/Product_Tracking_1.jpg?h=815abf95&itok=TVFZx-hr" alt="Italian Trulli" width="500" height="400">
-
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-</p>
-</details>
 
 > [!NOTE]
 > This is a NOTE
